@@ -632,10 +632,10 @@ color: #eeeeee;
       height: 29%;
     }.title-h1{
      padding: 1% 8%;
+     font-size: 2.7rem;
     }
   }
-  @media screen and (max-wodt:500px){.title-text{
+  @media screen and (max-width: 580px){.title-h1{
     font-size: 2rem;
   }
   }
-  
