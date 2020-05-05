@@ -634,3 +634,8 @@ color: #eeeeee;
      padding: 1% 8%;
     }
   }
+  @media screen and (max-wodt:500px){.title-text{
+    font-size: 2rem;
+  }
+  }
+  
